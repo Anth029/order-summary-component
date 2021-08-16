@@ -23,8 +23,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/Anth029/order-summary-component)
-- Live Site URL: [Add live site URL here](https://anth029.github.io/order-summary-component/)
+- Solution URL: (https://github.com/Anth029/order-summary-component)
+- Live Site URL: (https://anth029.github.io/order-summary-component/)
 
 ### Built with
 
